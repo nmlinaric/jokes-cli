@@ -1,0 +1,15 @@
+Input Word:	dog
+Joke: “My Dog has no nose.” “How does he smell?” “Awful”
+----------------------------------------------------------------------------------------------------
+Input Word:	cat
+Joke: It was raining cats and dogs the other day. I almost stepped in a poodle.
+----------------------------------------------------------------------------------------------------
+Input Word:	1
+Joke: I saw an ad in a shop window, "Television for sale, $1, volume stuck on full", I thought, "I can't turn that down".
+----------------------------------------------------------------------------------------------------
+Input Word:	1
+Joke: I saw an ad in a shop window, "Television for sale, $1, volume stuck on full", I thought, "I can't turn that down".
+----------------------------------------------------------------------------------------------------
+Input Word:	car
+Joke: A man is washing the car with his son. The son asks...... "Dad, can’t you just use a sponge?"
+----------------------------------------------------------------------------------------------------
